@@ -38,3 +38,8 @@
 - **Security testing**: Testing the software for security vulnerabilities, the software is tested to ensure that it's secure
 - **Usability testing**: Testing the software for usability, the software is tested to ensure that it's easy to use, that it's user friendly
 - **Testing automation**: The tests are automated, being tested by another software
+- **CI/CD**: Continuous Integration / Continuous Deployment - the modern practice of software development, focusing on the continuous integration and continuous deployment of code, delivering the value to the user as fast as possible, continuously
+- A **Machine learning model is not a software** by itself, but it can be a part of a software
+- A machine learning model is a mathematic representation of a problem, trained to solve a specific problem, as classification, regression, etc
+
+## Machine Learning Foundamentals
